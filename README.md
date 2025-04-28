@@ -267,10 +267,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![image](https://github.com/user-attachments/assets/c7b9d9a7-de5a-46b5-aab0-498cc2a19175)
-![image](https://github.com/user-attachments/assets/f8268d12-a34c-4cc5-8c25-94c19b6e7c4d)
-![image](https://github.com/user-attachments/assets/2fbb1529-f228-44c3-9940-054dd6dba0d5)
-
+![image](https://github.com/user-attachments/assets/8234e01b-00ec-4824-a63f-bba1deb64a77)
+![image](https://github.com/user-attachments/assets/89beeda3-8b6b-4989-81fa-df0528fa5606)
 
  
 ## layout of the circuit 
